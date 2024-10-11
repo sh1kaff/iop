@@ -1,3 +1,3 @@
 <?php
-echo shell_exec("base64 index.php");
+include("php://filter/read=convert.base64-encode/resource=index.php");
 ?>
