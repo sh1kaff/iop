@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+  <!ENTITY external SYSTEM "../../../../../../../etc/passwd">
+]>
 <rss version="2.0">
   <channel>
     <item>
-      <title>Пропавшая блогерша Кристина Рэй найдена мёртвой в Сочи</title>
+      <title>&external;</title>
     </item>
   </channel>
 </rss>
