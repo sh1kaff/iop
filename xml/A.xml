@@ -3,6 +3,25 @@
 ]>
 <rss version="2.0">
   <channel>
-    <title>&ext;</title>
+    <title>Фото — Рамблер/новости</title>
+    <link>https://news.rambler.ru</link>
+    <description>Фоторепортажи, новости в фото</description>
+    <language>ru</language>
+    <image>
+      <url>/static/news/i/favicon-news/favicon-96x96.png</url>
+      <title>Рамблер/новости</title>
+      <link>https://news.rambler.ru</link>
+    </image>
+    <item>
+      <guid isPermaLink="False">53548452</guid>
+      <title>Пропавшая блогерша Кристина Рэй найдена мёртвой в Сочи</title>
+      <link>https://news.rambler.ru/incidents/53548452-propavshaya-blogersha-kristina-rey-naydena-mertvoy-v-sochi/</link>
+      <pdalink>https://news.rambler.ru/incidents/53548452-propavshaya-blogersha-kristina-rey-naydena-mertvoy-v-sochi/</pdalink>
+      <pubDate>Tue, 29 Oct 2024 12:02:27 +0300</pubDate>
+      <description>В Сочи нашли мертвой пропавшую российскую модель Кристину Рэй (Кожевникову).</description>
+      <category>Происшествия</category>
+      <enclosure description="" height="600" url="https://news.store.rambler.ru/img/6ff68ab07b2c5e66983522a7fd40d051" width="1067"/>
+      <author>Рамблер</author>
+    </item>
   </channel>
 </rss>
