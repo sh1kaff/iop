@@ -1,25 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Фото — Рамблер/новости</title>
-    <link>https://news.rambler.ru</link>
-    <description>Фоторепортажи, новости в фото</description>
-    <language>ru</language>
-    <image>
-      <url>/static/news/i/favicon-news/favicon-96x96.png</url>
-      <title>Рамблер/новости</title>
-      <link>https://news.rambler.ru</link>
-    </image>
-    <item>
-      <guid isPermaLink="False">53548452</guid>
-      <title>Пропавшая блогерша Кристина Рэй найдена мёртвой в Сочи</title>
-      <link>https://news.rambler.ru/incidents/53548452-propavshaya-blogersha-kristina-rey-naydena-mertvoy-v-sochi/</link>
-      <pdalink>https://news.rambler.ru/incidents/53548452-propavshaya-blogersha-kristina-rey-naydena-mertvoy-v-sochi/</pdalink>
-      <pubDate>Tue, 29 Oct 2024 12:02:27 +0300</pubDate>
-      <description>В Сочи нашли мертвой пропавшую российскую модель Кристину Рэй (Кожевникову).</description>
-      <category>Происшествия</category>
-      <enclosure description="" height="600" url="https://news.store.rambler.ru/img/6ff68ab07b2c5e66983522a7fd40d051" width="1067"/>
-      <author>Рамблер</author>
-    </item>
-  </channel>
+<channel>
+<title>Фото — Рамблер/новости</title>
+<link>https://news.rambler.ru</link>
+<description>Фоторепортажи, новости в фото</description>
+<language>ru</language>
+<image>
+<url>/static/news/i/favicon-news/favicon-96x96.png</url>
+<title>Рамблер/новости</title>
+<link>https://news.rambler.ru</link>
+</image>
+<item>
+<guid isPermaLink="False">53548452</guid>
+<title>Пропавшая блогерша Кристина Рэй найдена мёртвой в Сочи</title>
+<link>https://news.rambler.ru/incidents/53548452-propavshaya-blogersha-kristina-rey-naydena-mertvoy-v-sochi/</link>
+<pdalink>https://news.rambler.ru/incidents/53548452-propavshaya-blogersha-kristina-rey-naydena-mertvoy-v-sochi/</pdalink>
+<pubDate>Tue, 29 Oct 2024 12:02:27 +0300</pubDate>
+<description>В Сочи нашли мертвой пропавшую российскую модель Кристину Рэй (Кожевникову).</description>
+<category>Происшествия</category>
+<enclosure description="" height="600" url="https://news.store.rambler.ru/img/6ff68ab07b2c5e66983522a7fd40d051" width="1067" />
+<author>Рамблер</author>
+</item>
+<item>
+<guid isPermaLink="False">53475197</guid>
+<title>Умер звезда «Левиафана» и «Солдат» Роман Мадянов</title>
+<link>https://news.rambler.ru/community/53475197-umer-zvezda-leviafana-i-soldat-roman-madyanov/</link>
+<pdalink>https://news.rambler.ru/community/53475197-umer-zvezda-leviafana-i-soldat-roman-madyanov/</pdalink>
+<pubDate>Wed, 25 Sep 2024 16:05:42 +0300</pubDate>
+<description>Актер Роман Мадянов умер в возрасте 62 лет</description>
+<category>Общество</category>
+<enclosure description="Роман Мадянов в роли Антона во время съемок фильма «Продается дача» режиссера Владимира Потапова, 2005 год" height="843" url="https://news.store.rambler.ru/img/15e21eb4a770f743df3813687c64f89c" width="1500" />
+<author>Газета.Ru</author>
+</item>
+<item>
+<guid isPermaLink="False">53473911</guid>
+<title>Обреченные на гибель: кадры из тонущей страны Тувалу</title>
+<link>https://news.rambler.ru/world/53473911-obrechennye-na-gibel-kadry-iz-tonuschey-strany-tuvalu/</link>
+<pdalink>https://news.rambler.ru/world/53473911-obrechennye-na-gibel-kadry-iz-tonuschey-strany-tuvalu/</pdalink>
+<pubDate>Wed, 25 Sep 2024 13:31:14 +0300</pubDate>
+<description>Одними из первых с последствиями таяния ледников из-за роста мировой температуры столкнутся жители небольшого государства Тувалу</description>
+<category>В мире</category>
+<enclosure description="" height="1197" url="https://news.store.rambler.ru/img/0a0c14e14c6b974d9dc02cccf61524e0" width="1920" />
+<author>Рамблер</author>
+</item>
+<item>
+<guid isPermaLink="False">53466785</guid>
+<title>Мистическая популярность: что происходит на Патриарших прудах</title>
+<link>https://news.rambler.ru/moscow_city/53466785-misticheskaya-populyarnost-chto-proishodit-na-patriarshih-prudah/</link>
+<pdalink>https://news.rambler.ru/moscow_city/53466785-misticheskaya-populyarnost-chto-proishodit-na-patriarshih-prudah/</pdalink>
+<pubDate>Tue, 24 Sep 2024 12:17:22 +0300</pubDate>
+<description>Путеводители и гиды называют небольшой московский микрорайон Патриаршие пруды одним из самых популярных и загадочных мест российской столицы</description>
+<category>Новости Москвы</category>
+<enclosure description="Девушка на одной из улиц в районе Патриарших прудов в Москве" height="1080" url="https://news.store.rambler.ru/img/6d42af5e7f8efd307d40a359a46b814a" width="1920" />
+<author>Рамблер</author>
+</item>
+<item>
+<guid isPermaLink="False">53465586</guid>
+<title>Ободранные обои и пестициды на полу: как жила семья, отравившаяся в Красноярском крае</title>
+<link>https://news.rambler.ru/incidents/53465586-obodrannye-oboi-i-pestitsidy-na-polu-kak-zhila-semya-otravivshayasya-v-krasnoyarskom-krae/</link>
+<pdalink>https://news.rambler.ru/incidents/53465586-obodrannye-oboi-i-pestitsidy-na-polu-kak-zhila-semya-otravivshayasya-v-krasnoyarskom-krae/</pdalink>
+<pubDate>Tue, 24 Sep 2024 09:40:10 +0300</pubDate>
+<description>В доме отравившейся в Красноярском крае семьи нашли пестициды</description>
+<category>Происшествия</category>
+<enclosure description="Кухня в доме в Красноярском крае, где жили четверо детей, погибших от отравления" height="844" url="https://news.store.rambler.ru/img/3c22b986a56bd30728b16e5665d9a4a3" width="1500" />
+<author>Газета.Ru</author>
+</item>
+<item>
+<guid isPermaLink="False">53447816</guid>
+<title>Джага-джага и контакты с инопланетянами: Кате Лель — 50</title>
+<link>https://news.rambler.ru/starlife/53447816-dzhaga-dzhaga-i-kontakty-s-inoplanetyanami-kate-lel-50/</link>
+<pdalink>https://news.rambler.ru/starlife/53447816-dzhaga-dzhaga-i-kontakty-s-inoplanetyanami-kate-lel-50/</pdalink>
+<pubDate>Fri, 20 Sep 2024 11:35:26 +0300</pubDate>
+<description>Певица Катя Лель отмечает 50-летний юбилей</description>
+<category>Шоу-бизнес</category>
+<enclosure description="Певица Катя Лель на премьере сериала «Там, где цветет полынь» в Москве, 2023 год" height="844" url="https://news.store.rambler.ru/img/c90707338e3526b9ddf7128efcaf8993" width="1500" />
+<author>Газета.Ru</author>
+</item>
+<item>
+<guid isPermaLink="False">53447311</guid>
+<title>Comedy Club закрывается. Как менялось шоу на протяжении 19 лет</title>
+<link>https://news.rambler.ru/starlife/53447311-comedy-club-zakryvaetsya-kak-menyalos-shou-na-protyazhenii-19-let/</link>
+<pdalink>https://news.rambler.ru/starlife/53447311-comedy-club-zakryvaetsya-kak-menyalos-shou-na-protyazhenii-19-let/</pdalink>
+<pubDate>Fri, 20 Sep 2024 10:27:42 +0300</pubDate>
+<description>ТНТ покажет 20 сентября прощальный выпуск шоу Comedy Club</description>
+<category>Шоу-бизнес</category>
+<enclosure description="" height="843" url="https://news.store.rambler.ru/img/ffe2272c3114353f55d4cc0831a26f2c" width="1500" />
+<author>Газета.Ru</author>
+</item>
+<item>
+<guid isPermaLink="False">53442698</guid>
+<title>55 лет на службе Родине: яркие кадры вертолета Ми-24</title>
+<link>https://news.rambler.ru/army/53442698-55-let-na-sluzhbe-rodine-yarkie-kadry-vertoleta-mi-24/</link>
+<pdalink>https://news.rambler.ru/army/53442698-55-let-na-sluzhbe-rodine-yarkie-kadry-vertoleta-mi-24/</pdalink>
+<pubDate>Thu, 19 Sep 2024 14:07:36 +0300</pubDate>
+<description>55 лет назад состоялся первый полет вертолета Ми-24</description>
+<category>Военные новости</category>
+<enclosure description=" Многоцелевой ударный вертолет Ми-24 во время командно-штабных учений на местности соединений и воинских частей 49-й общевойсковой армии ЮВО в Ставропольском крае и Карачаево-Черкесской Республике, 2017 год" height="1080" url="https://news.store.rambler.ru/img/be390f681a1a692fdd05f7fd625d00f2" width="1920" />
+<author>Рамблер</author>
+</item>
+<item>
+<guid isPermaLink="False">53436523</guid>
+<title>Стрельба у офиса Wildberries в центре Москвы. Первые кадры</title>
+<link>https://news.rambler.ru/incidents/53436523-strelba-u-ofisa-wildberries-v-tsentre-moskvy-pervye-kadry/</link>
+<pdalink>https://news.rambler.ru/incidents/53436523-strelba-u-ofisa-wildberries-v-tsentre-moskvy-pervye-kadry/</pdalink>
+<pubDate>Wed, 18 Sep 2024 14:48:05 +0300</pubDate>
+<description>У офиса Wildberries в центре Москвы произошла стрельба, есть пострадавшие</description>
+<category>Происшествия</category>
+<enclosure description="Сотрудники экстренных служб у бизнес-центра «Романов двор», где находится офис Wildberries" height="844" url="https://news.store.rambler.ru/img/f2783df610c4a95fcf69e083fcd23f8e" width="1500" />
+<author>Газета.Ru</author>
+</item>
+<item>
+<guid isPermaLink="False">53435647</guid>
+<title>Одна из самых известных мировых моделей госпитализирована с онкологией</title>
+<link>https://news.rambler.ru/starlife/53435647-odna-iz-samyh-izvestnyh-mirovyh-modeley-gospitalizirovana-s-onkologiey/</link>
+<pdalink>https://news.rambler.ru/starlife/53435647-odna-iz-samyh-izvestnyh-mirovyh-modeley-gospitalizirovana-s-onkologiey/</pdalink>
+<pubDate>Wed, 18 Sep 2024 12:55:48 +0300</pubDate>
+<description>Итальянская модель Бьянка Балти сообщила общественности об онкологическом заболевании</description>
+<category>Шоу-бизнес</category>
+<enclosure description="" height="600" url="https://news.store.rambler.ru/img/8aef5e55d44b66d3942ab4ad22c0c795" width="1067" />
+<author>Рамблер</author>
+</item>
+</channel>
 </rss>
