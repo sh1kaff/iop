@@ -5,11 +5,11 @@
     <link>https://news.rambler.ru</link>
     <description>Фоторепортажи, новости в фото</description>
     <language>ru</language>
-<!--     <image>
+    <image>
       <url>/static/news/i/favicon-news/favicon-96x96.png</url>
       <title>Рамблер/новости</title>
       <link>https://news.rambler.ru</link>
-    </image> -->
+    </image>
     <item>
       <guid isPermaLink="False">53548452</guid>
       <title>Пропавшая блогерша Кристина Рэй найдена мёртвой в Сочи</title>
