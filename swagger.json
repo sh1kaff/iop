@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "JSONPlaceholder",
-    "description": "str(exec('1+1'))",
+    "description": "{1+1}",
     "version": "0.0.1"
   },
   "paths": {}
